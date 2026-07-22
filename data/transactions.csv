@@ -1,0 +1,9 @@
+transaction_id,user_id,product_id,quantity,transaction_date,amount,payment_method,status
+TXN001,1,101,1,2024-07-20,999.99,Credit Card,completed
+TXN002,2,102,2,2024-07-20,59.98,Debit Card,completed
+TXN003,3,103,1,2024-07-19,79.99,PayPal,completed
+TXN004,4,104,5,2024-07-21,64.95,Credit Card,completed
+TXN005,5,105,2,2024-07-21,91.98,Credit Card,completed
+TXN006,1,106,1,2024-07-22,34.99,Debit Card,completed
+TXN007,2,107,10,2024-07-22,89.90,PayPal,completed
+TXN008,7,108,1,2024-07-22,15.99,Credit Card,pending

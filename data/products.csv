@@ -1,0 +1,9 @@
+product_id,product_name,category,price,stock,supplier,last_updated
+101,Laptop,Electronics,999.99,5,TechCorp,2024-07-20
+102,Wireless Mouse,Electronics,29.99,50,TechCorp,2024-07-20
+103,Mechanical Keyboard,Electronics,79.99,25,TechCorp,2024-07-20
+104,USB-C Cable,Accessories,12.99,100,CableCo,2024-07-19
+105,Monitor Stand,Accessories,45.99,15,OfficeSupply,2024-07-21
+106,Desk Lamp,Lighting,34.99,20,LightCo,2024-07-22
+107,Notebook,Stationery,8.99,200,PaperCo,2024-07-22
+108,Pen Set,Stationery,15.99,150,PaperCo,2024-07-22

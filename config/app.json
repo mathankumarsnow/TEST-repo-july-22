@@ -1,0 +1,26 @@
+{
+  "app": {
+    "name": "TEST Repository Application",
+    "version": "1.0.0",
+    "environment": "development",
+    "debug": true,
+    "port": 3000,
+    "host": "localhost"
+  },
+  "logging": {
+    "level": "info",
+    "format": "json",
+    "output": "console"
+  },
+  "features": {
+    "authentication": true,
+    "authorization": true,
+    "caching": false,
+    "monitoring": true
+  },
+  "timeouts": {
+    "request": 30000,
+    "connection": 5000,
+    "idle": 60000
+  }
+}

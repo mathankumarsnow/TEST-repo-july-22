@@ -1,0 +1,9 @@
+id,name,email,age,city,status,registration_date
+1,Alice Johnson,alice@example.com,28,New York,active,2024-01-15
+2,Bob Smith,bob@example.com,34,Los Angeles,active,2024-02-20
+3,Charlie Brown,charlie@example.com,45,Chicago,inactive,2024-03-10
+4,Diana Prince,diana@example.com,31,Houston,active,2024-04-05
+5,Eve Wilson,eve@example.com,26,Phoenix,active,2024-05-12
+6,Frank Miller,frank@example.com,52,Philadelphia,inactive,2024-06-18
+7,Grace Lee,grace@example.com,29,San Antonio,active,2024-07-22
+8,Henry Davis,henry@example.com,38,San Diego,active,2024-07-22

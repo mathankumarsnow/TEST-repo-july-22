@@ -1,0 +1,28 @@
+{
+  "database": {
+    "type": "postgresql",
+    "host": "localhost",
+    "port": 5432,
+    "username": "admin",
+    "password": "${DB_PASSWORD}",
+    "database": "test_db",
+    "ssl": false
+  },
+  "connection_pool": {
+    "min": 2,
+    "max": 10,
+    "idle_timeout": 30000,
+    "reap_interval": 1000
+  },
+  "backup": {
+    "enabled": true,
+    "schedule": "0 0 * * *",
+    "retention_days": 30,
+    "path": "/backups/database"
+  },
+  "replication": {
+    "enabled": false,
+    "replica_host": "replica.example.com",
+    "replica_port": 5432
+  }
+}
